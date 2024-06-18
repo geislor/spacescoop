@@ -18,3 +18,4 @@ sorl-thumbnail
 easy_thumbnails
 WeasyPrint
 django-weasyprint
+urllib3>=1.26.19 # not directly required, pinned by Snyk to avoid a vulnerability
